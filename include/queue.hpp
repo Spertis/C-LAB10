@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Spertis
 
 #ifndef INCLUDE_QUEUE_HPP_
 #define INCLUDE_QUEUE_HPP_
