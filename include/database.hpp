@@ -1,4 +1,4 @@
-// Copyright by ENigma
+// Copyright by Spertis
 
 #ifndef INCLUDE_DATABASE_HPP_
 #define INCLUDE_DATABASE_HPP_
